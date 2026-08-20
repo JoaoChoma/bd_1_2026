@@ -7,3 +7,9 @@ ATIVIDADES PARA FAZER:
 
 - ATIVIDADE 01;
 - ATIVIDADE 02;
+
+---
+
+# ONDE DESENHAR O DIAGRAMA ER?
+
+https://www.brmodeloweb.com/
