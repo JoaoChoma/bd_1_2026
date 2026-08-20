@@ -1,4 +1,4 @@
-# Exercício – Geração de Casos de Teste
+# Atividade 02 – Mais um diagrama de entidade e relacionamento
 
 ## Contexto
 
@@ -6,7 +6,7 @@ Uma locadora de veículos deseja automatizar o cálculo do valor final da locaç
 
 O sistema recebe algumas informações sobre a locação e retorna o valor total a ser pago pelo cliente.
 
-Seu objetivo será utilizar IA para auxiliar na criação dos casos de teste e, posteriormente, implementar os testes automatizados.
+Seu objetivo será elaborar o diagramde entidade e relacionamento para os requisitos do sistema.
 
 ---
 
@@ -213,20 +213,4 @@ Valor final
 
 Etapa 01:
 
-1. Produzir os casos de teste (sem código).
-2. Revisar criticamente os casos gerados.
-3. Solicitar à IA a implementação dos testes em **JUnit 5**.
-4. Executar os testes.
-5. Avaliar a cobertura de código.
-6. Criar novos testes caso a cobertura seja insuficiente.
-
----
-
-Etapa 02 - Utilize uma IA generativa para:
-
-1. Produzir os casos de teste (sem código).
-2. Revisar criticamente os casos gerados.
-3. Solicitar à IA a implementação dos testes em **JUnit 5**.
-4. Executar os testes.
-5. Avaliar a cobertura de código.
-6. Criar novos testes caso a cobertura seja insuficiente.
+1. Produzir diagrama de Entidade e relacionamento para os requisitos.
