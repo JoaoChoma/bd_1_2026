@@ -1,7 +1,5 @@
 # BANCO DE DADOS 1 2026
 
-![Banner da disciplina](./assets/image.png)
-
 Repositório oficial para organização e acompanhamento da disciplina **BANCO DE DADOS 1** (2026).
 
 ## Objetivos
@@ -29,6 +27,8 @@ Repositório oficial para organização e acompanhamento da disciplina **BANCO D
 https://mermaid.ai/
 
 https://miro.com/
+
+https://www.brmodeloweb.com/
 
 ---
 
